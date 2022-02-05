@@ -1,0 +1,11 @@
+.my-bg{
+  text-align: center;
+  padding:3em;
+  color:white;
+  background-color: red !important;
+
+}
+
+.my-resize{
+  padding:3em;
+}
